@@ -1,0 +1,26 @@
+.:
+total 0
+drwxr-xr-x 2 balzaq _amman  6 Sep 30 13:51 archive
+drwxr-xr-x 3 balzaq _amman 17 Sep 30 13:54 projects
+drwxr-xr-x 2 balzaq _amman  6 Sep 30 13:51 tools
+
+./archive:
+total 0
+
+./projects:
+total 0
+drwxr-xr-x 4 balzaq _amman 37 Sep 30 13:54 web
+
+./projects/web:
+total 0
+drwxr-xr-x 2 balzaq _amman 6 Sep 30 13:54 backend
+drwxr-xr-x 2 balzaq _amman 6 Sep 30 13:54 frontend
+
+./projects/web/backend:
+total 0
+
+./projects/web/frontend:
+total 0
+
+./tools:
+total 0

@@ -1,0 +1,5 @@
+commit 88cc83e0c59158623bc24f6d9ac25953eae10eb2
+Author: bashar116 <basharalzeq2003@gmail.com>
+Date:   Thu Oct 1 10:31:52 2026 +0300
+
+    Add hello.txt for initial commit

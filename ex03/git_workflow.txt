@@ -1,0 +1,41 @@
+Chapter VII — Exercise 03
+Git Workflow
+
+Check the repository status:
+
+git status
+
+Edit the project files:
+
+README.md
+git_workflow.txt
+
+Check the changes:
+
+git status
+
+Review the changes:
+
+git diff
+
+Add the files to the staging area:
+
+git add README.md git_workflow.txt
+
+Check the staged files:
+
+git status
+
+Commit the changes:
+
+git commit -m "Add project documentation"
+
+Push the commit to GitHub:
+
+git push
+
+Check the final repository status:
+
+git status
+
+The expected result after a successful push is that the working tree is clean.
