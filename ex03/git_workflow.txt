@@ -1,41 +1,22 @@
-Chapter VII — Exercise 03
-Git Workflow
+    Git Workflow
 
-Check the repository status:
+   1-   Edit:
+        Create or modify project files such as README.md.
 
-git status
+   2-  Add:
+        Stage the modified files using:
+        git add README.md
 
-Edit the project files:
+   3-  Commit:
+        Save the staged changes with a clear commit message:
+        git commit -m "Add project README"
 
-README.md
-git_workflow.txt
+   4-  Push:
+        Upload the committed changes to the remote GitHub repository:
+        git push -u origin main
 
-Check the changes:
+    Workflow:
+    Edit → Add → Commit → Push
 
-git status
+﻿
 
-Review the changes:
-
-git diff
-
-Add the files to the staging area:
-
-git add README.md git_workflow.txt
-
-Check the staged files:
-
-git status
-
-Commit the changes:
-
-git commit -m "Add project documentation"
-
-Push the commit to GitHub:
-
-git push
-
-Check the final repository status:
-
-git status
-
-The expected result after a successful push is that the working tree is clean.
